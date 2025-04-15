@@ -1,7 +1,8 @@
 The following entities are known to have violated the terms of the Anti-Fascist License and are hereby forbidden to use the
     bundled Software:
 Definitions:
-A. "Control" includes being a major corporate officer, having a majority interest in voting shares, or 
+A. "Control" includes being a major corporate officer, having a majority interest in voting shares, or otherwise being in control
+    of an entity.
 B. "Government" is the government of a state, along with any of its agencies, departments, or corporations owned by said
     government.
 1. The government of the United States, and any departments, agencies, or government-owned corporations thereof.
